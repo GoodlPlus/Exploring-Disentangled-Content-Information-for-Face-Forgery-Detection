@@ -13,8 +13,7 @@ ECCV 2022
 ## Citation
 If you  find this code useful for your research, please consider citing the following paper:
 
-@misc{
-    https://doi.org/10.48550/arxiv.2207.09202,
+@misc{https://doi.org/10.48550/arxiv.2207.09202,
     doi = {10.48550/ARXIV.2207.09202},
     url = {https://arxiv.org/abs/2207.09202},
     author = {Liang, Jiahao and Shi, Huafeng and Deng, Weihong},
