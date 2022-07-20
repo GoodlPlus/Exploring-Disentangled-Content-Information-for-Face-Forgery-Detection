@@ -1,4 +1,4 @@
-# Exploring-Disentangled-Content-Information-for-Face-Forgery-Detection
+# Exploring Disentangled Content Information for Face Forgery Detection
 
 Code repository for the paper:
 
