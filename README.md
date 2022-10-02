@@ -10,6 +10,8 @@ ECCV 2022
 
 [paper] [project page (coming soon)]
 
+[5451-poster.pdf](https://github.com/GoodlPlus/Exploring-Disentangled-Content-Information-for-Face-Forgery-Detection/files/9692090/5451-poster.pdf)
+
 ## Citation
 If you  find this code useful for your research, please consider citing the following paper:
 
